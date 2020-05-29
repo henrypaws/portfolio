@@ -1,0 +1,48 @@
+/* title */
+
+.portfolio {
+  font-size: 5.75em;
+  font-family: 'Manrope', sans-serif;
+  color: #f54c40;
+  margin-top: -375px;
+  margin-left: 900px;
+  font-weight: 700; 
+}
+
+.name {
+  font-size: 4.75em;
+  color: #ffffff; 
+  font-family: 'Manrope', sans-serif;
+  margin-top: 700px;
+  margin-left: 175px;
+}
+
+body {
+background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(14,14,82,1) 57%, rgba(8,19,56,1) 100%);
+}
+
+.vector {
+  background-image: url(https://henry-sullivans-images.s3-us-west-2.amazonaws.com/vector2.svg);
+  background-size:100% 100%;
+  -o-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  background-size:cover;
+  min-height: 1500px;
+}
+
+.about {
+  margin-top: 50px;
+  color: #ffffff; 
+  margin-left: 175px;
+  font-family: 'Manrope', sans-serif;
+}
+
+.scroll {
+  color: #ffffff;
+  font-size: 2em;
+  font-family: 'Manrope', sans-serif;
+  margin-left: 2250px;
+  margin-top: 300px;
+}
+
