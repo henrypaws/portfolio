@@ -4,7 +4,7 @@
   font-size: 5.75em;
   font-family: 'Manrope', sans-serif;
   color: #f54c40;
-  margin-top: -375px;
+  margin-top: -425px;
   margin-left: 900px;
   font-weight: 700; 
 }
@@ -52,3 +52,10 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(14,14,82,1) 57%, rgba(8
   margin-bottom: 500px;
 }
 
+.line_1 {
+  margin-right: 2025px;
+}
+
+.line_2 {
+  margin-right: 1900px;
+}
