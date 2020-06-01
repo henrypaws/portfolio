@@ -23,12 +23,12 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(14,14,82,1) 57%, rgba(8
 }
 
 .vector {
-  background-image: url(https://henry-sullivans-images.s3-us-west-2.amazonaws.com/vector2.svg);
-  background-size:100% 100%;
-  -o-background-size: 100% 100%;
-  -webkit-background-size: 100% 100%;
-  background-size:cover;
+  background-image: url(https://henry-sullivans-images.s3-us-west-2.amazonaws.com/vector.svg);
   min-height: 1500px;
+  background-size: 2313px;
+  background-position-x: 50%;
+  background-position-y: 100px;
+  background-repeat: no-repeat;
 }
 
 .about {
@@ -44,5 +44,11 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(14,14,82,1) 57%, rgba(8
   font-family: 'Manrope', sans-serif;
   margin-left: 2250px;
   margin-top: 300px;
+}
+
+.info {
+  margin-top: 800px;
+  color: #ffffff;
+  margin-bottom: 500px;
 }
 
